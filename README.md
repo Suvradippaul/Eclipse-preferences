@@ -1,6 +1,6 @@
 # Eclipse Tweaks
 
-All the preferences to tweak are available in Window > Preferences
+Out of the box, Eclipse gives a basic look and feel which I am not really a fan of. So I tried to tweak them a little to give a better aesthetic. All the preferences to tweak are available in Window > Preferences.
 
 ### 1. Enable Theming
 
